@@ -1,4 +1,4 @@
-<img width="747" height="1024" alt="image" src="https://github.com/user-attachments/assets/34c63aae-2997-4944-970d-578125245d80" /># Santiago Leyton - academic account
+# Santiago Leyton - academic account
 
 ## About Me
 
