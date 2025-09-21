@@ -1,20 +1,22 @@
-# Santiago Leyton
+<img width="747" height="1024" alt="image" src="https://github.com/user-attachments/assets/34c63aae-2997-4944-970d-578125245d80" /># Santiago Leyton - academic account
 
 ## About Me
 
-I am a passionate Software Engineering student who strives to improve every day, always looking for new and efficient ways to enhance web development. My main focus is building JavaScript applications and HTML5-based websites, aiming to optimize and simplify development processes.
+I am a passionate Software Engineering student who strives to improve every day, always looking for new and efficient ways to enhance web development. My main focus is be a full-stack developer using HTML5, CSS, JavaScript, Python, Java and Typescript.
 
 I have set ambitious goals as a software developer, and I push myself harder each day to turn them into reality. My objective is to master web technologies and build projects that exceed expectations.
 
 ## Skills & Technologies
 
-- **Languages:** JavaScript, HTML5
-- **Specialties:** Web development, Frontend development, JavaScript applications
+- **Languages:** Python, Java, JavaScript, TypeScript, HTML5, CSS, Django, MySQL, SQLite, git
+- **Specialties:** Fullstack
 - **Mindset:** Problem-solving, continuous learning, adaptability
 
 ## Experience
 
-Although I am just starting, I have already worked on various university projects that exceeded my professors' expectations. My approach is to develop solutions using my own logic, ensuring that my code is well-structured, efficient, and scalable.
+My profesional experience is in [@IngSantiagoLeyton](https://github.com/IngSantiagoLeyton/IngSantiagoLeyton/blob/main/README.md?plain=1).
+
+Abaut the academic learning, I'm working to dominate Java, Python and Django.
 
 ## Goals
 
@@ -28,3 +30,4 @@ I aspire to be a developer who not only creates impactful applications but also 
 
 - **Email:** sleyton_644@unihumboldt.edu.co
 - **Phone:** 3028629160
+- **Professional account:** [@IngSantiagoLeyton](https://github.com/IngSantiagoLeyton/IngSantiagoLeyton/blob/main/README.md?plain=1).
