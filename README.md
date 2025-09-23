@@ -14,7 +14,7 @@ I have set ambitious goals as a software developer, and I push myself harder eac
 
 ## Experience
 
-My profesional experience is in [@IngSantiagoLeyton](https://github.com/IngSantiagoLeyton/IngSantiagoLeyton/blob/main/README.md?plain=1).
+My profesional experience is in [@IngSantiagoLeyton](https://github.com/IngSantiagoLeyton).
 
 Abaut the academic learning, I'm working to dominate Java, Python and Django.
 
@@ -30,4 +30,4 @@ I aspire to be a developer who not only creates impactful applications but also 
 
 - **Email:** sleyton_644@unihumboldt.edu.co
 - **Phone:** 3028629160
-- **Professional account:** [@IngSantiagoLeyton](https://github.com/IngSantiagoLeyton/IngSantiagoLeyton/blob/main/README.md?plain=1).
+- **Professional account:** [@IngSantiagoLeyton](https://github.com/IngSantiagoLeyton).
