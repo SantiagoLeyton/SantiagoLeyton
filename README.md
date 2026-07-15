@@ -29,5 +29,4 @@ I aspire to be a developer who not only creates impactful applications but also 
 ## Contact
 
 - **Email:** sleyton_644@unihumboldt.edu.co
-- **Phone:** 3028629160
 - **Professional account:** [@IngSantiagoLeyton](https://github.com/IngSantiagoLeyton).
