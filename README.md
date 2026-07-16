@@ -89,20 +89,6 @@ I believe good software is not measured only by functionality, but by code quali
 
 ---
 
-<h2 align="center">GitHub Statistics</h2>
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SantiagoLeyton&theme=github_dark&show_icons=true&hide_border=true"/>
-
-<br><br>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoLeyton&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
----
-
 <h2 align="center">Connect With Me</h2>
 
 • 😺 **Professional GitHub:** <a href="https://github.com/IngSantiagoLeyton">IngSantiagoLeyton</a> 
