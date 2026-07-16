@@ -93,4 +93,4 @@ I believe good software is not measured only by functionality, but by code quali
 
 • 😺 **Professional GitHub:** <a href="https://github.com/IngSantiagoLeyton">IngSantiagoLeyton</a> 
 
-• 💼 **LinkedIn Profile:** <a href="https://linkedin.com/in/TU-USUARIO">LinkedIn</a>
+• 💼 **LinkedIn Profile:** <a href="https://www.linkedin.com/in/ing-santiago-leyton">LinkedIn</a>
